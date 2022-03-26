@@ -1,0 +1,15 @@
+{
+  "first_name": "[id='first-name']",
+  "last_name": "[id='last-name']",
+  "email": "[id='email-address']",
+  "submit_button": "[type='submit']",
+  "submit-successful": "[class='donation-success']",
+  "date_require": "[class='error']",
+  "phone_number": "[id='phone-number']",
+  "address": "[id='street-address']",
+  "city": "[id='city']",
+  "zipcode": "[id='zip-code']",
+  "volunteer_date": "[id='volunteer-date']",
+  "comment": "[id='comment']",
+  "state": "[value='%s']"
+}
